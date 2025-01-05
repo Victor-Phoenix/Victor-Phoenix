@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Victor-Phoenix
 - 👀 I’m interested in backend development
-- 🌱 I’m currently learning divide and conquer algoithms
-- 💞️ I’m looking to collaborate on a event scheduling app
+- 🌱 I’m currently learning divide and conquer algorithms
+- 💞️ I’m looking to collaborate on a project that requires java
 - 📫 How to reach me : victor.tran@snhu.edu
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I was kid number two in Hannah Montana
