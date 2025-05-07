@@ -6,5 +6,5 @@
 - 🛫 **Whiteboard** – Flight tracking/assignment backend built in Java + Spring Boot (archived due to API costs)
 - 🌿 **Weed Store Locator (in progress)** – SaaS project mapping cannabis products to store inventory
 
-📫 Reach me: victor.tran@snhu.edu  
+📫 Reach me: victortran16@gmail.com
 ⚡ Fun fact: I was kid number two in *Hannah Montana* 😄
