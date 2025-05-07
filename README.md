@@ -1,12 +1,10 @@
-- 👋 Hi, I’m @Victor-Phoenix
-- 👀 I’m interested in backend development
-- 🌱 I’m currently learning divide and conquer algorithms
-- 💞️ I’m looking to collaborate on a project that requires java
-- 📫 How to reach me : victor.tran@snhu.edu
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: I was kid number two in Hannah Montana
+# 👋 Hi, I’m Victor Tran (@Victor-Phoenix)
 
-<!---
-Victor-Phoenix/Victor-Phoenix is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🧠 Backend-focused developer passionate about building scalable and useful tools.  
+🌱 Currently learning: Spring Boot, PostgreSQL, Docker, and system design patterns.  
+🔨 Projects:
+- 🛫 **Whiteboard** – Flight tracking/assignment backend built in Java + Spring Boot (archived due to API costs)
+- 🌿 **Weed Store Locator (in progress)** – SaaS project mapping cannabis products to store inventory
+
+📫 Reach me: victor.tran@snhu.edu  
+⚡ Fun fact: I was kid number two in *Hannah Montana* 😄
